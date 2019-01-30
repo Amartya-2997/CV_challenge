@@ -1,6 +1,8 @@
 Libraries used:
 pytesseract
 pillow
+pandas
+numpy
 
 
 
